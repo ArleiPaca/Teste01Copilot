@@ -7,7 +7,7 @@ public class Condicional {
         double notaDoFilme = 8.1;
         String tipoPlano = "plus";
 
-// código omitido
+        // código omitido
 
         if (incluidoNoPlano == true || tipoPlano.equals("plus")){
             System.out.println("Filme liberado");
