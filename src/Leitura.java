@@ -16,6 +16,7 @@ public class Leitura {
         System.out.println("filme");
         System.out.println("anoDeLancamento");
         System.out.println("avaliacao");
+        System.out.println("Teste");
 
     }
 }
